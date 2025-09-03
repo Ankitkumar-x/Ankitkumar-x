@@ -1,4 +1,4 @@
-# Hi there, I'm Ankit Kumar! 👋
+# Hi there, I'm Ankit ! 👋
 
 ### 📊 Data Science Enthusiast | ML & AI Learner
 
