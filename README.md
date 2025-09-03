@@ -37,13 +37,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar-x&theme=radical" alt="ankitkumar-x" />
+  <!-- REPLACED THE BROKEN URL WITH A RELIABLE ONE -->
+  <img src="https://streak-stats.demolab.com/?user=ankitkumar-x&theme=radical" alt="ankitkumar-x" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumar-x&theme=radical&no-frame=true&row=1&column=6" alt="ankitkumar-x" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankitkumar-x&theme=radical&no-frame=true&row=1&column=6" alt="Ankitkumar-x" />
 </p>
 
 ## 🤝 Connect with Me
